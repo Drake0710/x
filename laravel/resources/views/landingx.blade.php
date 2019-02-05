@@ -256,7 +256,7 @@
 								data-endelementdelay="0.1"
 								data-textAlign="center"
 								data-endspeed="1000"
-								data-endeasing="Power4.easeIn" style="z-index: 3; color: #333; max-width: 650px; white-space: normal;">I hope you'll find some useful and interesting information or knowledge. Happy Browsing and once again Welcome.</div>
+								data-endeasing="Power4.easeIn" style="z-index: 3; color: #333; max-width: 650px; white-space: normal;">Hope you'll find something usefull.</div>
 
 								<div class="tp-caption customin ltl tp-resizeme"
 								data-x="middle" data-hoffset="0"
@@ -270,7 +270,7 @@
 								data-elementdelay="0.01"
 								data-endelementdelay="0.1"
 								data-endspeed="1000"
-								data-endeasing="Power4.easeIn" style="z-index: 3;"><a href="#" class="button button-border button-large button-rounded tright nomargin"><span>Browse</span><i class="icon-angle-right"></i></a></div>
+								data-endeasing="Power4.easeIn" style="z-index: 3;"><a href="blog" class="button button-border button-large button-rounded tright nomargin"><span>Browse</span><i class="icon-angle-right"></i></a></div>
 
 							</li>
 						</ul>
